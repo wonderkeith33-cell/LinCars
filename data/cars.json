@@ -1,0 +1,316 @@
+[
+  {
+    "id": "car-1",
+    "make": "BMW",
+    "model": "M4 Competition",
+    "year": 2023,
+    "price": 78900,
+    "mileage": 12500,
+    "condition": "Used",
+    "bodyType": "Coupe",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "3.0L Twin-Turbo I6",
+    "horsepower": 503,
+    "drivetrain": "AWD (xDrive)",
+    "exteriorColor": "Isle of Man Green",
+    "interiorColor": "Kyalami Orange",
+    "vin": "WBS33AY05NFP10293",
+    "location": "Los Angeles, CA",
+    "seller": {
+      "name": "Apex Motors Premium",
+      "type": "Dealer",
+      "phone": "+1 (555) 234-5678",
+      "email": "sales@apexmotors.example.com",
+      "rating": 4.9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Executive Package",
+      "M Carbon Bucket Seats",
+      "Harman Kardon Sound System",
+      "Head-Up Display",
+      "360 Surround View Camera",
+      "Adaptive M Suspension"
+    ],
+    "description": "Pristine 2023 BMW M4 Competition xDrive in striking Isle of Man Green. Full service history, single owner, pristine interior with Kyalami Orange leather. Track capability combined with everyday luxury."
+  },
+  {
+    "id": "car-2",
+    "make": "Porsche",
+    "model": "911 Carrera S",
+    "year": 2022,
+    "price": 124500,
+    "mileage": 8200,
+    "condition": "Used",
+    "bodyType": "Coupe",
+    "fuelType": "Gasoline",
+    "transmission": "PDK 8-Speed",
+    "engine": "3.0L Twin-Turbo Flat-6",
+    "horsepower": 443,
+    "drivetrain": "RWD",
+    "exteriorColor": "Chalk Gray",
+    "interiorColor": "Black / Mojave Beige",
+    "vin": "WP0AB2A91NS284910",
+    "location": "Miami, FL",
+    "seller": {
+      "name": "Porsche Center South",
+      "type": "Certified Dealer",
+      "phone": "+1 (555) 987-6543",
+      "email": "info@porschesouth.example.com",
+      "rating": 5.0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1611821064430-0d40291d0f0b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Sport Chrono Package",
+      "PASM Sport Suspension",
+      "Bose Surround Sound System",
+      "Sport Exhaust System",
+      "18-Way Adaptive Sport Seats",
+      "Panoramic Glass Roof"
+    ],
+    "description": "Porsche Approved Certified Pre-Owned 911 Carrera S (992 generation). Low mileage, meticulously maintained. Comes with factory warranty extension."
+  },
+  {
+    "id": "car-3",
+    "make": "Tesla",
+    "model": "Model S Plaid",
+    "year": 2024,
+    "price": 89990,
+    "mileage": 1200,
+    "condition": "New",
+    "bodyType": "Sedan",
+    "fuelType": "Electric",
+    "transmission": "Single Speed Direct Drive",
+    "engine": "Tri-Motor Electric Drive",
+    "horsepower": 1020,
+    "drivetrain": "AWD",
+    "exteriorColor": "Ultra Red",
+    "interiorColor": "All Black Carbon Fiber",
+    "vin": "5YJSA1E63RF910283",
+    "location": "San Jose, CA",
+    "seller": {
+      "name": "LinCars Direct",
+      "type": "Partner Store",
+      "phone": "+1 (555) 345-6789",
+      "email": "direct@lincars.example.com",
+      "rating": 4.8
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Full Self-Driving Capability",
+      "Yoke / Round Steering Option",
+      "22-Speaker 960W Audio System",
+      "Tri-Zone Climate Control",
+      "21'' Arachnid Wheels",
+      "Sub-2.0 Second 0-60 MPH"
+    ],
+    "description": "Brand new 2024 Tesla Model S Plaid in Ultra Red. Unmatched supercar acceleration with 1020 HP, 359 miles EPA estimated range, and spacious luxury seating."
+  },
+  {
+    "id": "car-4",
+    "make": "Audi",
+    "model": "RS6 Avant",
+    "year": 2023,
+    "price": 118000,
+    "mileage": 9400,
+    "condition": "Used",
+    "bodyType": "Wagon",
+    "fuelType": "Gasoline",
+    "transmission": "8-Speed Tiptronic",
+    "engine": "4.0L Twin-Turbo V8",
+    "horsepower": 591,
+    "drivetrain": "Quattro AWD",
+    "exteriorColor": "Nardo Gray",
+    "interiorColor": "Black with Red Stitching",
+    "vin": "WAUZZZF27N1049281",
+    "location": "Chicago, IL",
+    "seller": {
+      "name": "Midwest Supercars",
+      "type": "Dealer",
+      "phone": "+1 (555) 456-7890",
+      "email": "contact@midwestsupercars.example.com",
+      "rating": 4.9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "RS Dynamic Package Plus",
+      "Bang & Olufsen 3D Advanced Sound",
+      "Carbon Ceramic Brakes",
+      "RS Sport Exhaust",
+      "Valcona Leather Seats",
+      "Night Vision Assistant"
+    ],
+    "description": "The ultimate performance wagon. 591 HP Twin-Turbo V8 paired with legendary Quattro drive. Perfect balance of family practicality and supercar speed."
+  },
+  {
+    "id": "car-5",
+    "make": "Mercedes-Benz",
+    "model": "G 63 AMG",
+    "year": 2023,
+    "price": 179000,
+    "mileage": 15100,
+    "condition": "Used",
+    "bodyType": "SUV",
+    "fuelType": "Gasoline",
+    "transmission": "AMG SPEEDSHIFT TCT 9G",
+    "engine": "4.0L V8 Biturbo",
+    "horsepower": 577,
+    "drivetrain": "4MATIC AWD",
+    "exteriorColor": "Obsidian Black Metallic",
+    "interiorColor": "Bengal Red / Black Nappa",
+    "vin": "W1N9C7BJ5PX492019",
+    "location": "Dallas, TX",
+    "seller": {
+      "name": "Lone Star Luxury Motors",
+      "type": "Dealer",
+      "phone": "+1 (555) 567-8901",
+      "email": "sales@lonestarluxury.example.com",
+      "rating": 4.7
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1520031441872-265e4ff70366?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "AMG Night Package",
+      "Burmester Surround Sound",
+      "Exclusive Interior Package Plus",
+      "22'' AMG Forged Cross-Spoke Wheels",
+      "AMG Ride Control",
+      "Massage & Ventilated Seats"
+    ],
+    "description": "Iconic G-Wagon performance and presence. Loaded with AMG options, pristine condition inside and out. Turn heads wherever you go."
+  },
+  {
+    "id": "car-6",
+    "make": "Ford",
+    "model": "Mustang Shelby GT500",
+    "year": 2022,
+    "price": 79500,
+    "mileage": 4800,
+    "condition": "Used",
+    "bodyType": "Coupe",
+    "fuelType": "Gasoline",
+    "transmission": "7-Speed Dual-Clutch",
+    "engine": "5.2L Supercharged Cross-Plane V8",
+    "horsepower": 760,
+    "drivetrain": "RWD",
+    "exteriorColor": "Rapid Red",
+    "interiorColor": "Ebony Leather & Miko Suede",
+    "vin": "1FA6P8SJ0N5501928",
+    "location": "Phoenix, AZ",
+    "seller": {
+      "name": "David Miller (Private Seller)",
+      "type": "Private",
+      "phone": "+1 (555) 678-9012",
+      "email": "dmiller@example.com",
+      "rating": 5.0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Carbon Fiber Track Pack",
+      "Recaro Leather Trimmed Seats",
+      "Brembo 6-Piston Brakes",
+      "MagneRide Damping System",
+      "Technology Package",
+      "Active Valve Performance Exhaust"
+    ],
+    "description": "760 Horsepower American Muscle at its finest. Low mileage Shelby GT500 with Carbon Fiber Track Pack option. Garage kept, immaculate."
+  },
+  {
+    "id": "car-7",
+    "make": "Toyota",
+    "model": "GR Supra 3.0 Premium",
+    "year": 2024,
+    "price": 58500,
+    "mileage": 200,
+    "condition": "New",
+    "bodyType": "Coupe",
+    "fuelType": "Gasoline",
+    "transmission": "6-Speed Manual",
+    "engine": "3.0L Turbocharged I6",
+    "horsepower": 382,
+    "drivetrain": "RWD",
+    "exteriorColor": "Stratosphere Blue",
+    "interiorColor": "Black Hazelnut Leather",
+    "vin": "JTZAAEC10RZ019283",
+    "location": "Seattle, WA",
+    "seller": {
+      "name": "Pacific Toyota",
+      "type": "Dealer",
+      "phone": "+1 (555) 789-0123",
+      "email": "sales@pacifictoyota.example.com",
+      "rating": 4.8
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1621839673705-6617adf9e890?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1541348263662-e082662d82da?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "6-Speed Manual Transmission",
+      "JBL 12-Speaker Premium Sound",
+      "Brembo Brakes",
+      "Adaptive Variable Suspension",
+      "Wireless Apple CarPlay",
+      "Head-Up Display"
+    ],
+    "description": "Brand new 2024 GR Supra with the highly sought-after 6-speed manual transmission! Incredible driver connection and modern tech features."
+  },
+  {
+    "id": "car-8",
+    "make": "Rivian",
+    "model": "R1S Adventure",
+    "year": 2023,
+    "price": 84900,
+    "mileage": 11200,
+    "condition": "Used",
+    "bodyType": "SUV",
+    "fuelType": "Electric",
+    "transmission": "Direct Drive",
+    "engine": "Quad-Motor AWD",
+    "horsepower": 835,
+    "drivetrain": "AWD",
+    "exteriorColor": "Rivian Blue",
+    "interiorColor": "Ocean Coast / Dark Ash",
+    "vin": "7FCTGAAA3PN012847",
+    "location": "Denver, CO",
+    "seller": {
+      "name": "Sarah Connor (Private Seller)",
+      "type": "Private",
+      "phone": "+1 (555) 890-1234",
+      "email": "sconnor@example.com",
+      "rating": 4.9
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "features": [
+      "Quad-Motor All-Wheel Drive",
+      "Large Battery Pack (321 mi range)",
+      "Air Suspension with 14.9'' Ground Clearance",
+      "Camp Speaker & Built-In Flashlight",
+      "Meridian Elevation Audio",
+      "Panoramic Glass Roof"
+    ],
+    "description": "Adventure-ready Rivian R1S SUV with Quad-Motor setup generating 835 HP. Seats up to 7 adults with ultimate off-road capability and electric luxury."
+  }
+]
